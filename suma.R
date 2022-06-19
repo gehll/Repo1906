@@ -3,5 +3,6 @@
 
 suma <- function(a, b){
   c <- a + b
-  return(c)
+  d <- 1.25 * c
+  return(d)
 }
